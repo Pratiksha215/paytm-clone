@@ -1,4 +1,4 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+# Paytm Clone
 
 ## Concepts and Learnings
 
@@ -21,6 +21,6 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://visual-designer-landing.netlify.app/)
+[Live-Demo](https://paytm-clone-page.netlify.app)
 
 ## Designed By Patil Pratiksha
